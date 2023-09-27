@@ -4,7 +4,7 @@ Hi 👋 My name is Jeremy Shaughnessy
 Software Engineer
 -----------------
 
-I am a recent Information Science & Technology graduate from Temple University looking to begin my career.
+I am a recent Information Science & Technology graduate from Temple University seeking a full time position.
 
 * 🌍  I'm based in Philadelphia, Pennsylvania
 * ✉️  You can contact me at [jeremyshaughnessy@temple.edu](mailto:jeremyshaughnessy@temple.edu)
